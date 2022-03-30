@@ -6,3 +6,5 @@ Works with all messages and users.
 !!!
 MAKE SURE TO DEFINE THE CHANNEL IT DELETES IN OR IT WILL JUST DELETE ALL SENT MESSAGES AFTER THE DESIGNATED TIME.
 !!!
+
+Replace the empty credential spaces and its ready to deploy
